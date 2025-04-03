@@ -80,7 +80,7 @@ Host & Guest Experience
 1.  For Python Notebooks: Open each `.ipynb` notebook sequentially in Google Colab or Jupyter Notebook and run cells to reproduce data preparation, analysis, modeling, and forecasting steps. Ensure data files (or appropriate data access) are available in the specified paths.
 2.  For Power BI Dashboard: Open `Airbnb Canada Occupancy Analysis Dashboard - Power BI.pbit` template file in Power BI Desktop to explore the interactive dashboard.
 
-## Authors
+## Author
 
 *   Son Quach
 *   My Contact Information: quachhason.96@gmail.com
