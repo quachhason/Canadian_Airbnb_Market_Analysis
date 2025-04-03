@@ -8,6 +8,15 @@ This project provides a comprehensive analysis of the Canadian Airbnb market acr
 
 [Link Power BI Dashboard](https://report.onhandbi.com/public/report?token=eyJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfbGlua19pZCI6MjMxLCJoYXNfcGFzc2NvZGUiOmZhbHNlLCJ0aW1lIjoxNzQwMTU0MjkxfQ.Ayffxi2b4n1IO9-6Cmjb-iwJiiHqVg-UxoDwyMp8QuA)
 
+Location & Property Analysis
+![test](https://github.com/quachhason/Canadian_Airbnb_Market_Analysis/blob/main/Images/1.%20Location%20&%20Property%20Analysis.jpg?raw=true)
+
+Pricing & Revenue Analysis
+![test](https://github.com/quachhason/Canadian_Airbnb_Market_Analysis/blob/main/Images/2.%20Pricing%20&%20Revenue%20Analysis.jpg?raw=true)
+
+Host & Guest Experience
+![test](https://github.com/quachhason/Canadian_Airbnb_Market_Analysis/blob/main/Images/3.%20Host%20&%20Guest%20Experience.jpg?raw=true)
+
 ## Key Features
 
 *   **Descriptive Data Analysis:** Interactive Power BI dashboard showcasing Airbnb market dynamics across 8 Canadian cities, visualized through geographic distributions, pricing variations, occupancy rates, and amenity impacts.
