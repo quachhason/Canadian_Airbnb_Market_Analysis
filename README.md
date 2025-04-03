@@ -50,7 +50,11 @@ Host & Guest Experience
 5.  **Predictive Modeling (Prophet & XGBoost):**
     *   XGBoost: Training a Random Forest Regressor to identify key factors influencing occupancy using feature importance and SHAP values.
     *   Prophet: Building and evaluating a Prophet time-series model to forecast future monthly occupancy rates, incorporating seasonality, holiday effects, and regressors.
+  
+![test1](https://github.com/quachhason/Canadian_Airbnb_Market_Analysis/blob/main/5.%20Modeling%20&%20Advanced%20Analysis/4.%20Forecasted%20Occupancy%20Rates%20for%20Toronto.png?raw=true)
+
 6.  **Model Evaluation & Comparison:**  Rigorous evaluation of both Prophet and XGBoost models using appropriate metrics (MAE, RMSE, MAPE) and cross-validation to assess forecasting accuracy and identify model strengths and weaknesses.
+![test1](https://github.com/quachhason/Canadian_Airbnb_Market_Analysis/blob/main/Images/4.%20Model%20Performance%20Comparison.jpg?raw=true)
 
 ## Key Findings
 
