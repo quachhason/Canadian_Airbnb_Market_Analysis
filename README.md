@@ -56,6 +56,7 @@ This project provides a comprehensive analysis of the Canadian Airbnb market acr
 *   `1. Data Preparation (Load & Merge).ipynb`: Jupyter Notebook for data loading, merging, and preparation.
 *   `2. Data Cleaning & Feature Engineering.ipynb`: Jupyter Notebook for data cleaning and feature engineering processes.
 *   `3. Exploratory Data Analysis (EDA).ipynb`: Jupyter Notebook for Exploratory Data Analysis and visualization.
+*   `4. Power BI Dashboard for Visualization`: Power BI for Exploratory Data Analysis and visualization.
 *   `5. Modeling & Advanced Analysis.ipynb`: Jupyter Notebook containing code for feature importance analysis, Prophet and XGBoost model building, evaluation, and forecasting.
 *   `all_listings.csv`, `all_calendars.csv`, `cleaned_listings_v2.csv`, `cleaned_calendars_v2.csv`, `daily_metrics.csv`: Processed data files (or describe data format and source if data files cannot be shared).
 *   `Airbnb Canada Occupancy Analysis Dashboard - Power BI.pbit`: Power BI Dashboard template file.
